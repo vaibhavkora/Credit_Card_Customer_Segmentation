@@ -1,9 +1,9 @@
 # Credit Card Customer Segmentation
 
-![Image_Alt]()
+![Image_Alt](Credit_Card_Customer_Segmentation.png)
 
 ## 📌Overview
-This project analyzes credit card usage behavior using the CC GENERAL dataset to perform customer segmentation or clustering. The goal is to explore patterns in customer spending, payment habits, and credit usage, potentially grouping customers into meaningful segments using unsupervised learning techniques (e.g., K-Means clustering). The notebook demonstrates data loading, initial exploration, and sets the stage for further analysis and modeling.
+This project analyzes credit card usage behavior using the CC GENERAL dataset to perform customer segmentation or clustering. The goal is to explore patterns in customer spending, payment habits, and credit usage, potentially grouping customers into meaningful segments using unsupervised learning techniques (e.g., K-Means clustering). The notebook demonstrates data loading, and initial exploration, and sets the stage for further analysis and modeling.
 
 ## 📂Dataset
 ### Description
